@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Today-Work/static/css/main.eb5cf870.css",
+    "main.js": "/Today-Work/static/js/main.dc064024.js",
+    "static/js/787.63e47474.chunk.js": "/Today-Work/static/js/787.63e47474.chunk.js",
+    "index.html": "/Today-Work/index.html",
+    "main.eb5cf870.css.map": "/Today-Work/static/css/main.eb5cf870.css.map",
+    "main.dc064024.js.map": "/Today-Work/static/js/main.dc064024.js.map",
+    "787.63e47474.chunk.js.map": "/Today-Work/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5cf870.css",
+    "static/js/main.dc064024.js"
+  ]
+}
